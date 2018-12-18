@@ -1,0 +1,9 @@
+[submodule "qpmad"]
+	path = qpmad
+	url = https://github.com/asherikov/qpmad
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "CppAD"]
+	path = CppAD
+	url = https://github.com/coin-or/CppAD.git
